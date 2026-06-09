@@ -1,6 +1,6 @@
 # Hi, I'm Jasaiah 👋
 
-## 💻 Aspiring IT Support Specialist
+## IT Support Specialist
 
 I am an aspiring IT Support Specialist with a strong customer service background and a passion for technology. I am currently building hands-on experience through homelabs, certifications, and personal projects while pursuing opportunities in Help Desk and IT Support.
 
@@ -20,11 +20,11 @@ I am an aspiring IT Support Specialist with a strong customer service background
 
 ---
 
-# Homelab Projects
+## Homelab Projects:
 
-## Active Directory Home Lab
-**Repository:**  
-🔗 [Active Directory Homelab](https://github.com/JasaiahB/ActiveDirectory-Homelab)
+ ### - Active Directory Home Lab
+
+**Repository:**  🔗 [Active Directory Homelab](https://github.com/JasaiahB/ActiveDirectory-Homelab)
 
 ### Objectives
 - Deploy a Windows Server Domain Controller
