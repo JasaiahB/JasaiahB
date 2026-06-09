@@ -56,8 +56,6 @@ I am an aspiring IT Support Specialist with a strong customer service background
 - Customer Service
 - Documentation
 
-### Networking
-
 ### System Administration
 - Active Directory
 - Group Policy
