@@ -5,7 +5,7 @@ This lab focuses on building a Windows Server domain environment using VirtualBo
 This lab focuses on building a Windows Server Active Directory domain environment using VirtualBox to simulate a real-world business IT environment.The environment consists of a Windows Server configured as a Domain Controller and Windows 10/11 client machines joined to the domain. The primary objective is to develop and practice the technical skills required for an entry-level help desk role, including Active Directory administration, DNS, Group Policy, Windows Server management, and foundational networking and troubleshooting skills used in IT support environments.
 
 ## ***Objectives***
-- Set up Two Virtual Machines With VirtualBox. One as the Domain Controller and the other as the client.
+- Set up two Virtual Machines With VirtualBox. One as the Domain Controller and the other as the client.
 - Install Windows Server 2022/25 and Windows 10/11 on to the VM's
 - Configure network adapters on VirtualBox for internal lab communication
   
