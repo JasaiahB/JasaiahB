@@ -8,9 +8,7 @@ This lab focuses on building a Windows Server Active Directory domain environmen
 - Set up Two Virtual Machines With VirtualBox. One as the Domain Controller and the other as the client.
 - Install Windows Server 2022/25 and Windows 10/11 on to the VM's
 - Configure network adapters on VirtualBox for internal lab communication
-- 
-
-
+  
 ## ***Tools used***
 - Windows server 2022/25
 - Windows 10/11
