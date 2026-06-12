@@ -6,14 +6,14 @@ I am an aspiring IT Support Specialist with a strong customer service background
 
 ---
 
-## 🎯 Current Goals
+## Current Goals
 
 - Complete the Google IT Support Professional Certificate
 - Build and document IT homelab projects
 - Gain experience with Active Directory and Microsoft 365
 ---
 
-## 📚 Certifications
+## Certifications
 
 - Google IT Support Professional Certificate *(In Progress)*
 - CompTIA A+ *(Planned)*
@@ -64,11 +64,9 @@ I am an aspiring IT Support Specialist with a strong customer service background
 
 ### Productivity Tools
 - Microsoft 365
-- Google Workspace
 - Git & GitHub
 
 ## 🤝 Connect With Me
-
 - LinkedIn: www.linkedin.com/in/jasaiah-binyard
 - Email: Jasaiahbinyard@gmail.com
 
