@@ -24,7 +24,7 @@ I am an aspiring IT Support Specialist with a strong customer service background
 
  ### - Active Directory Home Lab
 
-**Repository:**  🔗 [Active Directory Homelab](https://github.com/)
+**Repository:**  🔗 [Active Directory Homelab](https://github.com/ActiveDirectoryLab.README.md)
 
 ### Objectives
 - Deploy a Windows Server Domain Controller
