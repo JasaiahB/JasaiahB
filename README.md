@@ -72,4 +72,3 @@ I am an aspiring IT Support Specialist with a strong customer service background
 
 ---
 
-*"Learning by building and documenting real-world IT projects."*
