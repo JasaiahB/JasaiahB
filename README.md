@@ -5,18 +5,10 @@
 I am an aspiring IT Support Specialist with a strong customer service background and a passion for technology. I am currently building hands-on experience through homelabs, certifications, and personal projects while pursuing opportunities in Help Desk and IT Support.
 
 ---
-
-## Current Goals
-
-- Complete the Google IT Support Professional Certificate
-- Build and document IT homelab projects
-- Gain experience with Active Directory and Microsoft 365
----
-
 ## Certifications
 
-- Google IT Support Professional Certificate *(In Progress)*
-- CompTIA A+ *(Planned)*
+- Google IT Support Professional Certificate (2026)
+- CompTIA A+ *(Expected August 2026)*
 
 ---
 
@@ -47,7 +39,6 @@ I am an aspiring IT Support Specialist with a strong customer service background
 ### Operating Systems
 - Windows 10/11
 - Windows Server
-- Linux (Ubuntu)
 
 ### IT Support
 - Hardware Troubleshooting
